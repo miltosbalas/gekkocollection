@@ -1,0 +1,13 @@
+{
+  "name": "Gekko Collection",
+  "short_name": "Gekko",
+  "description": "Luxury private villas in Mykonos, Greece.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0B0C",
+  "theme_color": "#0B0B0C",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
